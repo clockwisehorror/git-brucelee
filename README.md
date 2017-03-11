@@ -7,3 +7,5 @@
 - Cena 3: Tang Lung e Colt se encaram, ambos se preparam para lutar.
 
 - Cena 4: Tang Lung derrota Colt depois de uma luta disputada.
+
+- Cena 5: Bruce Lee testa a funço git fetch
